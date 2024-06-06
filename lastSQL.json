@@ -1,0 +1,66 @@
+[
+  {
+    "id": 102,
+    "nome": "Siriusmon",
+    "atributo": "Light",
+    "tipo": "Light Dragon",
+    "digievolved": "Canoweissmon",
+    "imagem": "https://static.wikia.nocookie.net/digimonat/images/d/d3/Siriusmon_b.jpg/revision/latest/scale-to-width-down/320?cb=20221220072057&path-prefix=pt"
+  },
+  {
+    "id": 152,
+    "nome": "Canoweissmon",
+    "atributo": "Vaccine",
+    "tipo": "Dragão Celestial",
+    "digievolved": "BetelGammamon[1], WezenGammamon[2], KausGammamon[3]",
+    "imagem": "https://static.wikia.nocookie.net/digimonat/images/f/f0/Canoweissmon_b.jpg/revision/latest/scale-to-width-down/320?cb=20220517081559&path-prefix=pt"
+  },
+  {
+    "id": 202,
+    "nome": "BetelGammamon",
+    "atributo": "Vaccine",
+    "tipo": "Homem-dragão",
+    "digievolved": "Gammamon",
+    "imagem": "https://static.wikia.nocookie.net/digimonat/images/c/c2/BetelGammamon_b.jpg/revision/latest/scale-to-width-down/320?cb=20211010004715&path-prefix=pt"
+  },
+  {
+    "id": 203,
+    "nome": "Gammamon",
+    "atributo": "Virus",
+    "tipo": "Ceratopsiano",
+    "digievolved": "Gurimon",
+    "imagem": "https://static.wikia.nocookie.net/digimonat/images/0/0b/Gammamon_b.jpg/revision/latest/scale-to-width-down/320?cb=20221031064933&path-prefix=pt"
+  },
+  {
+    "id": 204,
+    "nome": "Gurimon",
+    "atributo": "",
+    "tipo": "Lesser",
+    "digievolved": "Curimon",
+    "imagem": "https://static.wikia.nocookie.net/digimonat/images/6/62/Gurimon_b.jpg/revision/latest?cb=20210921091735&path-prefix=pt"
+  },
+  {
+    "id": 205,
+    "nome": "Curimon",
+    "atributo": "",
+    "tipo": "Slime",
+    "digievolved": "",
+    "imagem": "https://static.wikia.nocookie.net/digimonat/images/2/22/Curimon_b.jpg/revision/latest?cb=20210921092417&path-prefix=pt"
+  },
+  {
+    "id": 206,
+    "nome": "WezenGammamon",
+    "atributo": "Data",
+    "tipo": "Ceratopsiano",
+    "digievolved": "Gammamon",
+    "imagem": "https://static.wikia.nocookie.net/digimonat/images/f/f9/WezenGammamon_b.jpg/revision/latest/scale-to-width-down/320?cb=20211010004723&path-prefix=pt"
+  },
+  {
+    "id": 207,
+    "nome": "KausGammamon",
+    "atributo": "Data",
+    "tipo": "Homem-Dragão",
+    "digievolved": "Gammamon",
+    "imagem": "https://static.wikia.nocookie.net/digimonat/images/2/28/KausGammamon_b.jpg/revision/latest/scale-to-width-down/320?cb=20211010004719&path-prefix=pt"
+  }
+]
