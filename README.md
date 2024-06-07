@@ -27,7 +27,9 @@ Como o projeto não está hospedado em nenhum serviço de nuvem (R$R$R$ infelizm
 2. **Utilizar o arquivo .JSON mais recente** aqui disponibilizado. Ele possui todas as instâncias criadas até então. Para adicionar uma lista de instâncias (para evitar ter que adicionar um a um) há um método específico para isso ```Controller.salvaDigimons```.
 
     2.1 Logo, pode-se clonar o repositório e, ao inicializá-lo, utilizando a IDE de sua preferência, pela linha de comando, ou gerando o arquivo .jar com ```mvn clean package```, basta acessar a URL: http://localhost:8080/swagger-ui/index.html (caso mantenha a porta padrão) e utilizar o método citado anteriormente passando o conteúdo do arquivo .JSON no corpo da requisição POST.
-
+   
+    **OBS** Alterar a URL para conexão com o Banco de Dados no arquivo application.properties.
+   
 **Link para clone do repositório**
    ```bash
    https://github.com/Maracujacake/DigiAPI.git
