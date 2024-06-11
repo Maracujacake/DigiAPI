@@ -1,0 +1,3 @@
+[submodule "digiAPI_Front"]
+	path = digiAPI_Front
+	url = https://github.com/Maracujacake/digiAPI_Front.git
