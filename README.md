@@ -43,4 +43,5 @@ Caso queira contribuir para o projeto, além da verificação, manutenção e me
 
 ***Observações Finais***
 
-Criar o banco ''digimon'' pode evitar alguns erros.
+Criar o banco ''digimon'' é necessário.
+A aplicação front-end para consumo da API está linkada agora nos arquivos do repositório.
